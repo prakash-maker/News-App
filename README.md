@@ -1,3 +1,5 @@
+![2020-12-23 (2)](https://user-images.githubusercontent.com/72318891/102925228-ff21ab80-44b8-11eb-946c-d9b3d7280516.png)
+
 # NewsApi
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.8.
