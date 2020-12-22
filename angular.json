@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "news-api"
+    }
+  },
+  "defaultProject": "news-api",
+  "cli": {
+    "analytics": false
+  }
 }
